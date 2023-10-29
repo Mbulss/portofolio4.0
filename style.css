@@ -7,7 +7,6 @@ body {
     font-family: 'Arial', sans-serif;
     background-color: #ede1c9;
     color: #000000;
-    animation: expand 1s ease-in-out;
 }
 
 @keyframes expand {
