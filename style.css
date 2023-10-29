@@ -9,17 +9,6 @@ body {
     color: #000000;
 }
 
-@keyframes expand {
-    from {
-        max-width: 0;
-        padding: 0;
-    }
-    to {
-        max-width: 1200px;
-        padding: 5px;
-    }
-}
-
 html {
     scroll-behavior: smooth;
 }
